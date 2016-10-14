@@ -1,0 +1,5 @@
+clear
+gcc project1Client.c -o project1Client
+gcc project1Server.c -o project1Server
+
+./project1Server 1500
